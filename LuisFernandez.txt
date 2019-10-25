@@ -1,0 +1,2 @@
+Archivo .txt de prueba de commit.
+Primeras pruebas en Git Hub repositorio.
